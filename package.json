@@ -1,0 +1,28 @@
+{
+  "name": "grunt-templates",
+  "description": "DEPRECATED - use Assemble",
+  "version": "0.2.0",
+  "homepage": "",
+  "author": "Brian Woodward <brian.woodward@gmail.com>",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:doowb/grunt-templates.git"
+    }
+  ],
+  "bugs": {
+      "url": "https://github.com/doowb/grunt-templates/issues"
+    },
+    "engines": {
+      "node": ">=0.4.11"
+    },
+    "keywords": [
+      "template",
+      "jade",
+      "ejs",
+      "handlebars",
+      "mustache",
+      "grunt",
+      "gruntplugin"
+    ]
+}
